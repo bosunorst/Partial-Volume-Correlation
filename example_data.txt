@@ -1,0 +1,4 @@
+The example data included here is the confocal reflection image of collagen gels containing low density of MDA-MB-231 cells.
+Images were taken around an isolated single cell, before and after Cytochalasin D treatment.
+(Due to size limit of GitHub, the image stacks were splited into two zip compressed files)
+cell_membrane.mat is a Matlab file containing the (binary) cell image. 
